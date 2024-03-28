@@ -62,9 +62,10 @@ def process():
     except Exception as e:
         print(f"Error during data import: {str(e)}")
 
-
+# SAMPLE USAGE
 if __name__ == "__main__":
     process()
+    # SABAY SABAY I PROCESS LAHAT TAPOS I PRINT PAG TAPOS NA LAHAT NG PROCESSING
 
     # OUTPUT 
     """
